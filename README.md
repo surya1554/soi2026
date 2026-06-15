@@ -27,4 +27,12 @@ print(a+b)
 ![img]{"C:\Users\user\Downloads\images.jpg"}
 
 
+order list
+1.orange
+2.mango
+unorder list
+-hello
+-namastey
++hey
++maya
 
