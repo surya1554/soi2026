@@ -47,3 +47,12 @@ srowful[*2]
 2.sadlly
 - [ ] option1
 - [ ] option2
+
+table
+-------
+|name|clg|dep
+|----|----|-----|
+|surya|sir crr|IT|
+|----|----|----|
+|kiran|vish|cse|
+|----|----|----|
