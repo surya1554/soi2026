@@ -20,5 +20,5 @@ This is the 'git command' script
 '''
 a=1
 b=2
-A=(a+b)
+print(a+b)
 '''
