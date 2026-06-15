@@ -39,3 +39,9 @@ unorder list
 top
 ----
 bottom
+
+grantfull{*1}
+srowful{*2}
+-----
+1.thankfull
+2.sadlly
