@@ -45,5 +45,5 @@ srowful[*2]
 -----
 1.thankfull
 2.sadlly
-- []option1
-- []option2
+- [ ] option1
+- [ ] option2
