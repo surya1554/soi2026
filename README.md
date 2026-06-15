@@ -16,3 +16,9 @@ surya <sub>student</sub>
 <u>sir crr eng clg</u>
 <ins>sir crr eng clg</ins>
 > Note: this is an imporant class 
+This is the 'git command' script
+'''
+a=1
+b=2
+A=(a+b)
+'''
