@@ -22,5 +22,6 @@ a=1
 b=2
 print(a+b)
 '''
-(goolge){https://www.google.com/}
+> [google]{https://www.google.com/}
+> 
 
